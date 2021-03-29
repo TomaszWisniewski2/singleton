@@ -1,7 +1,7 @@
 ﻿using System;
 
-namespace Singleton
-{
+namespace Singleton  // Tomasz Wiśniewski, Artur Janiak   
+{                    //Zespuł onomatopeja
     class Singleton
     {
         // private instance of the class
